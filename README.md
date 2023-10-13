@@ -7,3 +7,4 @@ Made with MCreator.
 
 README IS CURRENTLY WIP BTW
 
+![logo](https://github.com/CodeNinjasSP/LostSoulRebirth/blob/main/minecraft_title.png)
